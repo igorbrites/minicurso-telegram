@@ -2,7 +2,6 @@
 .env
 *.swp
 composer.phar
-composer.lock
 /vendor/
 .idea/workspace.xml
 .idea/tasks.xml
