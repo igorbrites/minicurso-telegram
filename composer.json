@@ -1,0 +1,14 @@
+{
+    "name": "igorbrites/minicurso-telegram",
+    "description": "App de exemplo do Minicurso de Telegram da PhpConf 2016",
+    "authors": [
+        {
+            "name": "Igor Brites",
+            "email": "igor.brites.87@gmail.com"
+        }
+    ],
+    "require": {
+        "irazasyed/telegram-bot-sdk": "dev-master",
+        "vlucas/phpdotenv": "^2.4"
+    }
+}
